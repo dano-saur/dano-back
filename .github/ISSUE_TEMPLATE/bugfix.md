@@ -2,7 +2,7 @@
 name: bugfix
 about: 버그 수정 작업 템플릿
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
